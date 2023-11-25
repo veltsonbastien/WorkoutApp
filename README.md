@@ -11,7 +11,7 @@ Will eventually come up with a better name for this lol. This is an app that I'd
 - [ ] Initialization
   -  [ ] set up frontend, backend, db, and ensure they're all connected
   -  [ ] set up basic file structure
-  -  [ ] Stack is going to be Next.js + tRPC + Prisma ORM
+  -  [ ] Stack is going to be Next.js + GraphQL, and we'll see what else
 - [ ] Design
   - [ ] Build out basic UI / UX wireframe in Figma
   - [ ] Code out wireframe 
