@@ -7,7 +7,7 @@ Will eventually come up with a better name for this lol. This is an app that I'd
 
 ## Here's the dirty task list for an MVP!
 (dirty since it's not really organized)
-- [ x ] System design: Checkout the Figma board [here](https://www.figma.com/file/l9aY9IuyPcvyllklZaKl8T/Workout-App-System-Design?type=whiteboard&node-id=0%3A1&t=hweT5HwSWKRYeiS0-1)
+- [x] System design: Checkout the Figma board [here](https://www.figma.com/file/l9aY9IuyPcvyllklZaKl8T/Workout-App-System-Design?type=whiteboard&node-id=0%3A1&t=hweT5HwSWKRYeiS0-1)
 - [ ] Initialization
   -  [ ] set up frontend, backend, db, and ensure they're all connected
   -  [ ] set up basic file structure
